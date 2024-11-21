@@ -24,14 +24,14 @@ __4. 연락처__
 
 ---
 ### 2. 기술 스택
-#### 프로그래밍 언어
+#### - 프로그래밍 언어
 아래는 제가 **여태까지 배워온 프로그래밍 언어**들을 나타낸 것입니다.
 
 ![파이썬](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-#### Github Stats
+#### - Github Stats
 아래는 저의 **Github 스탯**입니다.
 
 ![깃](https://github-readme-stats.vercel.app/api?username=SongMyeonggeun04)
