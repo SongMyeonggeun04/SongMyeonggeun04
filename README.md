@@ -18,7 +18,7 @@ __4. 연락처__
 
 아래는 제가 다니고 있는 **중앙대학교 다빈치캠퍼스**의 사진입니다.
 
-![개인 사진](https://github.com/SongMyeonggeun04/OSS-A001/blob/main/ss1.jpg)
+![개인 사진](https://github.com/SongMyeonggeun04/SongMyeonggeun04/blob/main/ss1.jpg)
 
 취미로 **음악**을 하고 있고, 동아리도 밴드 동아리에 다니는 등 음악과 관련된 활동을 하고 있습니다.
 
