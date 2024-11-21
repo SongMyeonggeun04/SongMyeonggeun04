@@ -32,8 +32,7 @@ __4. 연락처__
 
 아래는 저의 **Github 스택**입니다.
 
-![송명근의 깃허브 스택](https://github-readme-stats.vercel.app/api?username=SongMyeonggeun04&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![깃](https://github-readme-stats.vercel.app/api?username=SongMyeonggeun04&hide={hidecontents})
+![깃](https://github-readme-stats.vercel.app/api?username=SongMyeonggeun04)
 
 이것은 저의 **Github 활동 관련 통계**를 나타낸 것입니다.
 
