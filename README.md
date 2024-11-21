@@ -24,11 +24,12 @@ __4. 연락처__
 
 ---
 ### 2. 기술 스택
+아래는 제가 **여태까지 배워온 프로그램 언어**들을 나타낸 것입니다.
 ![파이썬](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-아래는 저의 Github 스택입니다.
+아래는 저의 **Github 스택**입니다.
 
 ![송명근의 깃허브 스택](https://github-readme-stats.vercel.app/api?username=SongMyeonggeun04&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
